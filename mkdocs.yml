@@ -1,6 +1,6 @@
 site_name: "@cl3m/corekit"
 site_description: A TypeScript-first general-purpose utility library for strings, arrays, objects, and dates.
-site_url: https://corekit.netlify.app
+site_url: https://corekitdocs.netlify.app
 repo_url: https://github.com/clemdevlin/corekit
 repo_name: cl3m/corekit
 edit_uri: ""

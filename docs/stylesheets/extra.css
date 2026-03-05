@@ -16,7 +16,7 @@
 
 /* Header */
 .md-header {
-  background-color: #13161b;
+  background-color: var(--md-primary-fg-color);
   border-bottom: 1px solid #23272f;
   box-shadow: none;
 }
@@ -28,9 +28,9 @@
 }
 
 /* Sidebar */
-.md-sidebar {
+/* .md-sidebar {
   background-color: #13161b;
-}
+} */
 
 .md-nav__title {
   font-family: 'JetBrains Mono', monospace;
